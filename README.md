@@ -1,6 +1,7 @@
 # Tarea 1 - Ecuaciones Diferenciales
   
 **Nombre:** Sophia Henao Jimenez
+
 **CC:** 1033178826
 
 ## Descripción
