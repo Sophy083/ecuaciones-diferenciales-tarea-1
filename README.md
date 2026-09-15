@@ -1,8 +1,7 @@
 # Tarea 1 - Ecuaciones Diferenciales
-
-**Universidad de Antioquia**  
-**Curso:** Ecuaciones Diferenciales  
-**Periodo:** 2026-2
+  
+**Nombre:** Sophia Henao Jimenez
+**CC:** 1033178826
 
 ## Descripción
 
